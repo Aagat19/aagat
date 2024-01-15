@@ -1,3 +1,3 @@
 # aagat
-This is my first re[pository
-author- Agat Choubey
+This is my first repository
+author- Agat Choubey from IET
